@@ -1,6 +1,6 @@
 # Dify simple RAG with WordPress
 
-> Enabling various applications to be AI-enabled or used by AI. (2/100)
+> Enabling various applications to be AI-enabled or used by AI. (3rd/100)
 
 ![](./preview.jpg)
 
